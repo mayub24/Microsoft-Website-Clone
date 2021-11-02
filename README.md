@@ -1,4 +1,4 @@
 # Microsoft-Website-Clone
-Created a prototype of the Microsoft website using the new Grid layout and a little bit of Flexbox
+Created a prototype of the Microsoft website using the new Grid layout and Flexbox.
 
-##### Hosted on: https://serene-dijkstra-b3daff.netlify.app/
+##### Hosted on: https://microsoft-front-page-clone.netlify.app/
